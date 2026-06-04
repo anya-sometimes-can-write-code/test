@@ -1,7 +1,7 @@
 &CONTROL
   calculation = 'scf',
   prefix      = 'graphene',
-  outdir      = '/temp',
+  outdir      = './temp',
   pseudo_dir  = '/input/test',
   tefield=.true.,
   dipfield=.true.,
