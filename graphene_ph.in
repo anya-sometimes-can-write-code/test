@@ -1,5 +1,5 @@
 &INPUTPH
-  outdir = '/temp'
+  outdir = './temp'
   prefix = 'graphene_scf'
   tr2_ph = 1d-14
   ldisp = .true.
