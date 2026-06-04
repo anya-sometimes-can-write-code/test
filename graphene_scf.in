@@ -22,7 +22,7 @@
   edir=3,
   emaxpos=0.55,
   eopreg=0.06,
-  eamp=0.00005882,
+  eamp=0.0,
 
 /
 
