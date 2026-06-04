@@ -2,7 +2,7 @@
   calculation = 'scf',
   prefix      = 'graphene',
   outdir      = './temp',
-  pseudo_dir  = '/input/test',
+  pseudo_dir  = './',
   tefield=.true.,
   dipfield=.true.,
 
