@@ -1,0 +1,4 @@
+&INPUT
+filedyn = 'graphene_scf.dyn'
+asr=crystal
+/
